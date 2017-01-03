@@ -2,7 +2,7 @@
 <module type="JAVA_MODULE" version="4">
   <component name="FacetManager">
     <facet type="Python" name="Python">
-      <configuration sdkName="Python 3.5.2 (C:\Users\Miguel\Anaconda3\python.exe)" />
+      <configuration sdkName="Python 3.5.2 (C:\Program Files\Anaconda3\pythonw.exe)" />
     </facet>
   </component>
   <component name="NewModuleRootManager" inherit-compiler-output="false">
@@ -12,6 +12,6 @@
       <sourceFolder url="file://$MODULE_DIR$/tests/files" type="java-test-resource" />
     </content>
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="Python 3.5.2 (C:\Users\Miguel\Anaconda3\python.exe) interpreter library" level="application" />
+    <orderEntry type="library" name="Python 3.5.2 (C:\Program Files\Anaconda3\pythonw.exe) interpreter library" level="application" />
   </component>
 </module>
